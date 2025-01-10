@@ -305,6 +305,7 @@ h1 span {
   }
   .btns-container {
     flex-direction: row-reverse;
+    max-width: 87.5rem;
   }
   .border-scissors-2 {
     left: calc(50% - 5rem);
